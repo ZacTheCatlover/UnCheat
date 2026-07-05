@@ -26,6 +26,7 @@
         "Remove [(OFF) Freeze Border+] [in capital] <if [(OFF) Freeze Border\u00d7] is not constructed by anybody> <for [AI player] Civilizations> <upon turn end>",
         "Gain a free [(OFF) Forever Influence] [in capital] <if [(OFF) Forever Influence\u00d7] is constructed by anybody> <for [AI player] Civilizations> <upon turn end>",
         "Remove [(OFF) Forever Influence] [in capital] <if [(OFF) Forever Influence\u00d7] is not constructed by anybody> <for [AI player] Civilizations> <upon turn end>",
+        "Remove [(OFF) Auto Buildings] [in all cities] <if [(OFF) Auto Buildings\u00d7] is not constructed by anybody> <for [AI player] Civilizations> <upon turn end>",
         "Gain a free [+5000% Everything+] [in capital] <if [+5000% Everything\u00d7] is constructed by anybody> <for [AI player] Civilizations> <upon turn end>",
         "Remove [+5000% Everything+] [in capital] <if [+5000% Everything\u00d7] is not constructed by anybody> <for [AI player] Civilizations> <upon turn end>",
         "Gain a free [+1000% Everything+] [in capital] <if [+1000% Everything\u00d7] is constructed by anybody> <for [AI player] Civilizations> <upon turn end>",
