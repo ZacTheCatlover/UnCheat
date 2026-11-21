@@ -1,3 +1,5 @@
 {
-    "uniques": []
+    "uniques": [
+        "Suppress warning [*is both granted free and could possibly be removed by triggers*]"
+    ]
 }
